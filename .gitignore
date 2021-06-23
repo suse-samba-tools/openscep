@@ -1,0 +1,17 @@
+Makefile
+config.log
+config.sh
+config.status
+config.h
+stamp-h
+stamp-h
+libtool
+*.lo
+*.o
+*.la
+ldap/openscep.ldif
+ldap/setupldap
+ldap/slapd.conf
+.libs
+openssl/openscep.cnf
+openssl/openscepsetup
